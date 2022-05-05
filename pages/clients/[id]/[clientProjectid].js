@@ -6,7 +6,7 @@ function SelectedClientProjectPage() {
     console.log(router.query);
     return (
         <div>
-            <h1>The Selected Client Project Page</h1>
+            <h1>The Selected Client specific Project Page</h1>
         </div>
     )
 }
